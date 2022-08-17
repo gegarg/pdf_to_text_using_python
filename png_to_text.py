@@ -1,7 +1,10 @@
-## ## This file was created by Geeta Garg, Indiana University (email: gegarg@iu.edu) to convert png transcripts (downloaded in pdf format from Federal Reserve's website) to readable text format for a summer project
+## ## This file was created by Geeta Garg, Indiana University (email: gegarg@iu.edu) to convert png transcripts (downloaded in 
+## pdf format from Federal Reserve's website) to readable text format for a summer project
 ## This is the only file that needs to be used to convert png to text.
-## This file can run a loop over png files saved in directory_in and saves them in directory_text with text file using the base name of the pdf file.
-## This file converts noisy scanned pdf images into clear text using Python and Google Tesseract OCR (The input should be png files and output will be text)
+## This file can run a loop over png files saved in directory_in and saves them in directory_text with text file 
+## using the base name of the pdf file.
+## This file converts noisy scanned pdf images into clear text using Python and Google Tesseract OCR (The input should be 
+## png files and output will be text)
 ## This file is created based on different sources listed below:
 ## Source 1.: https://blog.anirudhmergu.com/code/ocr-python-tesseract-ocr/
 ## Source 2: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
