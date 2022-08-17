@@ -1,6 +1,9 @@
-## ## This file was created by Geeta Garg, Indiana University (email: gegarg@iu.edu) to convert pdf transcripts downloaded from Federal Reserve's website to png format for a summer project
+## ## This file was created by Geeta Garg, Indiana University (email: gegarg@iu.edu) to convert pdf transcripts downloaded from 
+## Federal Reserve's website to png format for a summer project
 ## This file converts pdf to png files and saves them in fed_files_pdf_jpg folder
-## When the files are converted from pdf to png they are split into separate png pages which are then needed to be combined together to form one png file. The first image becomes black when combined with the second page/image of the same article (manually keep checking articles if an article is damaged)
+## When the files are converted from pdf to png they are split into separate png pages which are then needed to be combined together 
+## to form one png file. The first image becomes black when combined with the second page/image of the same article 
+## (manually keep checking articles if an article is damaged)
 
 ## https://blog.softhints.com/python-extract-text-from-image-or-pdf/
 ## http://xiaofeima1990.github.io/2016/12/19/extract-text-from-sanned-pdf/#python-OCR-stript
